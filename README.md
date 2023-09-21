@@ -1,0 +1,2 @@
+# German-Credit-Risk-Analysis
+Conducted comprehensive analysis of credit risk in German financial markets. Developed and fine-tuned predictive models to assess the likelihood of loan default. Identified and quantified key risk factors contributing to defaulting, enabling informed decision-making in lending and financial sectors.
